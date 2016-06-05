@@ -18,9 +18,5 @@
   {
     "repository": "kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common"
-  },
-  {
-    "repository": "vendor_samsung_serrano-common",
-    "target_path": "vendor/samsung/serrano-common"
   }
 ]
